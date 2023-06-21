@@ -6,6 +6,8 @@ WORK IN PROGRESS
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NocTech&theme=blue-green)
 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NocTech&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <!--
 **NocTech/NocTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
