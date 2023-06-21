@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+
+
+### Skills
+<img src="https://camo.githubusercontent.com/06c6858186510906c21d8c951168d55d976d7dfb9176ed6125c55b8a7de0baae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749542d4534344333303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/638ebef37d186ebf588b89d5124b1d2151234a3f21293f08b82cbad81cc9ac7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f474e55253230426173682d3445414132353f7374796c653d666f722d7468652d6261646765266c6f676f3d474e5525323042617368266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&amp;logo=GNU%20Bash&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/476f76755fc72caf85cd56a58f84aaee754598707b9e1565579d0e8b94bf65f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7765727368656c6c2d3533393146453f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7765727368656c6c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&amp;logo=powershell&amp;logoColor=white" style="max-width: 100%;">
+
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NocTech&theme=blue-green)
-
-
-https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
 
 <!--
 **NocTech/NocTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
