@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NocTeam&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NocTech&theme=blue-green)
 <!--
 **NocTech/NocTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
