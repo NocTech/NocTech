@@ -1,5 +1,5 @@
-<!--### Hi there 👋
-WORK IN PROGRESS
+### Hi there 👋
+<!--WORK IN PROGRESS
 -->
 
 ### Skills
