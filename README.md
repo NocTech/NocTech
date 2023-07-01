@@ -1,5 +1,7 @@
 ### Hi there 👋
 <!--WORK IN PROGRESS
+
+I'm a network systems administration of both Linux and Windows systems. 
 -->
 
 ### Skills
