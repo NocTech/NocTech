@@ -2,7 +2,7 @@
 
 I'm a Network technician, Server technician, System tester, System developer of both Linux and Windows systems.
 
-WORK IN PROGRESS
+WORK IN PROGRESS...
 
 
 ### Some of my skills
