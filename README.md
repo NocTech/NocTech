@@ -16,7 +16,6 @@ I'm a Network technician, Server technician, System tester, System developer of 
 - ✨ I’m currently working on: Linux, Ansible
 - ✨ I’m currently learning: C++, Cloud Computing, Advanced Linux Programming, IT-Automation
 
-WORK IN PROGRESS...
 <!--
 **NocTech/NocTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
