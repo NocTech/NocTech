@@ -2,8 +2,8 @@
 
 I'm a Network technician, Server technician, System tester, System developer of both Linux and Windows systems.
 
-- ✨ I’m currently working on: Linux, Ansible
-- ✨ I’m currently learning: C++, Cloud Computing, Advanced Linux Programming, IT-Automation, IT-Security
+- ✨ I’m currently working on: Linux, Windows, Ansible, Network Automation, DevOps
+- ✨ I’m currently learning: C++, Cloud Computing, Advanced Linux Programming, IT-Automation, IT-Security, 
 
 #### Never stop learning new things, If you fail first time try again... You have learned something new...
 
