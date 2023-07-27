@@ -13,8 +13,8 @@ I'm a Network technician, Server technician, System tester, System developer of 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NocTech&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-- ✨ I’m currently working on: Linux
-- ✨ I’m currently learning: C++, Cloud Computing, Advance Linux Programming
+- ✨ I’m currently working on: Linux, Ansible
+- ✨ I’m currently learning: C++, Cloud Computing, Advanced Linux Programming, IT-Automation
 
 WORK IN PROGRESS...
 <!--
