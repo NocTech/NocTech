@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Ethical hacker, Network technician, Server technician, System tester, System developer of both Linux and Windows systems.
+I'm a Network technician, Server technician, System tester, System developer of both Linux and Windows systems.
 
 - ✨ I’m currently working on: Linux, Windows, Ansible, Network Automation, DevOps, Embedded Systems, C++, Advanced Linux Programming, IT-Automation, Fullstack development...
 
